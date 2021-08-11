@@ -1,0 +1,25 @@
+.main {
+    background: url('https://p4.wallpaperbetter.com/wallpaper/478/727/680/simple-minimalism-pokemon-simple-background-wallpaper-preview.jpg');
+    height: 380px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-column-gap: 30px;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    width: 100%;
+}
+.header_item {
+    position: relative;
+    margin-top: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.active_icons {
+    height: 60px;
+    width: 60px; 
+}
+
+.title {
+    color: whitesmoke;
+}
+
